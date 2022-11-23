@@ -1,0 +1,16 @@
+bit.ly/bfs-
+bit.ly/dfs_
+bit.ly/astar_
+bit.ly/selsort-
+bit.ly/single-source-shortest
+bit.ly/job-sch
+bit.ly/prims-
+bit.ly/Krushkals
+bit.ly/dijkstr
+bit.ly/n-queens-
+bit.ly/graphColoring
+bit.ly/chatbot-
+bit.ly/info-management
+bit.ly/help-_
+bit.ly/employe-
+bit.ly/airline-
